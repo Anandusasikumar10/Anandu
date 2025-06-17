@@ -8,13 +8,7 @@ It supports both basic and scientific operations like:
 - √, log, parentheses
 - Clean dark-themed UI with hover effects
 
----
 
-## 📸 Demo
-![alt text](image-1.png)
-
-
----
 
 ## 🚀 Features
 - Built using Tkinter (no external libraries)
